@@ -411,6 +411,10 @@ img::-moz-selection {
   color: white;
   background: transparent;
 }
+
+.img-profile {
+  border: 5px solid #F05F40;
+}
 body {
   webkit-tap-highlight-color: #222222;
 }
